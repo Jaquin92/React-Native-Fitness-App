@@ -1,1 +1,1 @@
-Fitness App Built in React Native
+Fitness App Built in React Native(in progress...)
